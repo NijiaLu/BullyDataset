@@ -21,3 +21,5 @@ Nijia Lu, Guohua Wu, Zhen Zhang, Yitao Zheng, Yizhi Ren, Kim-Kwang Raymond Choo 
 in Social Media Text Based on Character-level Convolutional Neural Networks with Shortcuts
 
 email：lunijia@hdu.edu.cn
+
+Thanks: B. Zhang, Y. Wang, J. Zhong, X. Fan
