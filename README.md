@@ -4,7 +4,7 @@ a new Chinese Weibo comments dataset collected from Sina Weibo comment specifica
 
 ------
 
-A Weibo comment is be labeled as bullying if it
+A Weibo comment is labeled as bullying if it
 
 1. uses a sexist, racial or geographical slur.
 2. uses swear words or humiliation to blame someone without a well founded argument.
@@ -14,6 +14,7 @@ A Weibo comment is be labeled as bullying if it
 6. is one of repeated negative comments, or call others to join the attack.
 7. imposes a nickname that others are unwilling to accept or insulting.
 
+------
 
 PLEASE CITE:
 
